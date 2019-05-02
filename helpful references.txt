@@ -1,0 +1,3 @@
+https://github.com/AlexeyAB/darknet
+https://github.com/pjreddie/darknet/tree/master/cfg
+https://github.com/arunponnusamy/object-detection-opencv
