@@ -29,4 +29,5 @@ Pretrained YOLO  deep learning model to detect objects
         python yolo_webcam_ver.py --config chosen_cfg --weights chosen_weights --classes yolov3.txt
  
  ## Result
- 
+ ![](scene.jpg)
+ ![](object-detection.jpg)
