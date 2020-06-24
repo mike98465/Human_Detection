@@ -1,5 +1,6 @@
 # Human_Detection
 Pretrained YOLO  deep learning model to detect objects
+* Reference: https://github.com/arunponnusamy/object-detection-opencv
 
  ## Dependencies (libraries)
   * openCV
