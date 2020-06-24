@@ -39,7 +39,7 @@ with open(args.classes, 'r') as f:
 net = cv2.dnn.readNet(args.weights, args.config)	
 
 start = time.time()
-#vid = cv2.VideoCapture('http://192.168.11.50:8000/stream.mjpg')
+#vid = cv2.VideoCapture('ip/stream.mjpg')
 vid = cv2.VideoCapture(0)
 
 while(vid.isOpened()):
